@@ -1,0 +1,2 @@
+# Frequent_Pattern_and_Graph_Mining_for_Classification
+Engineered a pipeline for discriminative subgraph identification and binary feature extraction for classification
