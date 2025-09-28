@@ -1,4 +1,4 @@
-# Frequent Pattern and Subgraph Mining (COL761 Assignment 1)
+# Frequent Pattern and Subgraph Mining
 
 This repository contains implementations and experiments for **Frequent Itemset Mining**, **Frequent Subgraph Mining**, and **Graph Classification**, as part of the COL761 (Data Mining) course assignment.
 
